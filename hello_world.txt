@@ -1,1 +1,1 @@
-Testing git add .
+Testing git add new window message commit.
